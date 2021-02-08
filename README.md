@@ -1,4 +1,4 @@
-## ReactJS user login & registration
+## ReactJS User Login & Registration
 
 React Redux JWT Authentication, LocalStorage, Router, fetch Working with Redux Actions, Reducers, Store for Application state
 
